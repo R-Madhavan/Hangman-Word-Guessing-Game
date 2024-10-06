@@ -1,4 +1,3 @@
-```markdown
 # Hangman Game in Python
 
 A simple implementation of the classic Hangman game in Python. Guess the hidden word by suggesting letters within a limited number of attempts.
@@ -18,7 +17,6 @@ A simple implementation of the classic Hangman game in Python. Guess the hidden 
 2. Run the game:
    ```bash
    python main.py
-   ```
 
 ### Example Gameplay
 ```
